@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
     'Quem inventou a lâmpada?',
-     Thomas Edison'
+    'Thomas Edison'
 )
 
 criaCartao(
